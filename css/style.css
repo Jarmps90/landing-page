@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    color: white;
+    background-color: #3882f6;
+    padding: 5px;
+}
+
+li {
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background-color:#1F2937 ;
+    color: aliceblue;
+
+
+}
