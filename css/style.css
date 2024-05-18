@@ -7,7 +7,10 @@ body {
 button {
     color: white;
     background-color: #3882f6;
-    padding: 5px;
+    padding: 3px 15px;
+    border-radius: 5px;
+    border: white;
+    font-weight: bold;
 }
 
 li {
