@@ -43,6 +43,5 @@ a {
 
 .header-content {
     display: flex;
-    /*justify-content: space-between;*/
     margin-bottom: 75px;
 }
