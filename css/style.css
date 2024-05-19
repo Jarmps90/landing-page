@@ -13,10 +13,18 @@ button {
     font-weight: bold;
 }
 
-li {
-    display: inline;
+ul {
+    display: flex;
     margin: 0;
     padding: 0;
+    gap: 15px;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #f9faf8;
+    font-size: 18px;
 }
 .header {
     background-color:#1F2937 ;
@@ -27,6 +35,7 @@ li {
     display: flex;
     align-items: center;
     justify-content: space-evenly;
+    font-size: large;
 }
 
 .header-content {
