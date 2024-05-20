@@ -44,4 +44,17 @@ a {
 .header-content {
     display: flex;
     margin-bottom: 75px;
+    /*flex-grow: 0;
+    flex-shrink: 2;*/
 }
+
+.header-content > *{
+    outline: 2px solid red;
+
+}
+
+.header-text {
+    padding-right: 50px;
+}
+    
+    
