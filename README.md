@@ -11,3 +11,4 @@ Log
 Update. Added container to header text and sign up button. Styled button.
 19 Mai. Added color and font size to links. Removed underlines in links.
 Put everything there places in header. Removed spaceing in header-content. Next time align header text size img and add container to header logo.
+20 Mai. Added outlines to header-content
