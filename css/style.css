@@ -1,18 +1,26 @@
 body {
-    margin: 0%;
+    
     display: flex;
     flex-direction: column;
     align-items: center;
     font-family: Roboto, sans-serif;
+    margin: auto;
+    
 }
 
 button {
     color: white;
     background-color: #3882f6;
-    padding: 3px 15px;
+    padding: 7px 20px;
     border-radius: 5px;
     border: white;
     font-weight: bold;
+    cursor: pointer;
+    
+}
+.header-button:hover{
+    background-color: #f9faf8;
+    color: #3882f6;
 }
 
 ul {
@@ -45,8 +53,9 @@ h1 {
 .header {
     background-color:#1F2937 ;
     color: aliceblue;
-    padding: 15px 100px;
-    }
+    width: 100%;
+    
+}
 
 .top {
     display: flex;
@@ -54,13 +63,27 @@ h1 {
     justify-content: space-between;
     font-size: large;
     margin-bottom: 75px;
+    padding: 20px 150px;
 }
 
 .header-content {
     display: flex;
     margin-bottom: 75px;
+    padding: 0 150px;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.container {
+    width: 400px;
+}
+
+.header-button {
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .header-content > *{
     outline: 2px solid red;
+
 }
