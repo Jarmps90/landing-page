@@ -12,5 +12,6 @@ Update. Added container to header text and sign up button. Styled button.
 19 May. Added color and font size to links. Removed underlines in links.
 Put everything there places in header. Removed spaceing in header-content. Next time align header text size img and add container to header logo.
 20 May. Added outlines to header-content.
-21 May. Added style to the page. Removed padding and margin in header text to fit better with img. Thinking how to size them that my backround doesn't brake.
+21 May. Added style to the page. Removed padding and margin in header text to fit better with img. Thinking how to size them that my backround doesn't brake (Solved that braking issiue)
+Add a photo to header and take next felxbox to style.
 
