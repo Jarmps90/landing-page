@@ -63,19 +63,19 @@ h1 {
     justify-content: space-between;
     font-size: large;
     margin-bottom: 75px;
-    padding: 20px 150px;
+    padding: 20px 175px;
 }
 
 .header-content {
     display: flex;
     margin-bottom: 75px;
-    padding: 0 150px;
+    padding: 0px 175px;
     justify-content: space-between;
     align-items: flex-end;
 }
 
 .container {
-    width: 400px;
+    width: 410px;
 }
 
 .header-button {
@@ -83,7 +83,8 @@ h1 {
     margin-bottom: 10px;
 }
 
-.header-content > *{
-    outline: 2px solid red;
-
+.container2 {
+    display: flex;
+    justify-content: center;
 }
+
