@@ -15,4 +15,4 @@ Put everything there places in header. Removed spaceing in header-content. Next 
 22 May. Added style to the page. Removed padding and margin in header text to fit better with img. Thinking how to size them that my backround doesn't brake (Solved that braking issiue)
 Add a photo to header and take next felxbox to style.
 
-24-25 May. 
+24-25 May. Now it is done. Was very interesting to do.
