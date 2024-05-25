@@ -52,7 +52,7 @@ h1 {
 }
 .header {
     background-color:#1F2937 ;
-    color: aliceblue;
+    color: #e5e7eb;
     width: 100%;
     
 }
@@ -75,7 +75,7 @@ h1 {
 }
 
 .container {
-    width: 410px;
+    width: 450px;
 }
 
 .header-button {
@@ -114,4 +114,41 @@ h1 {
 .text {
     font-size: 18px;
     color: #1F2937;
+}
+
+.quote {
+    background-color: #e5e7eb;
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    padding: 100px 175px;
+}
+
+.signup-banner {
+    display: flex;
+    border: solid #3882f6;
+    background-color: #3882f6;
+    border-radius: 2%;
+    height: 150px;
+    width: 1000px;
+    margin: 50px;
+    justify-content: center;
+}
+
+.text1 {
+    color: #f9faf8;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.text2 {
+    font-size: 18px;
+    color: #f9faf8;
+}
+
+.button2 {
+    border-color: #f9faf8;
+    border: 2px solid;
+
 }
