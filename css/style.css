@@ -83,8 +83,15 @@ h1 {
     margin-bottom: 10px;
 }
 
+.header-text {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
 .information {
     text-align: center;
+    margin-top: 30px;
+    margin-bottom: 100px;
 }
 
 .titel {
@@ -102,6 +109,9 @@ h1 {
 .info-content {
     display: flex;
     gap: 32px;
-    margin-bottom: 100px;
 }
 
+.text {
+    font-size: 18px;
+    color: #1F2937;
+}
