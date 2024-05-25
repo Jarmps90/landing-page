@@ -85,12 +85,6 @@ h1 {
 
 .information {
     text-align: center;
-    }
-   
-.container2 {
-    display: flex;
-    justify-content: center;
-    gap: 52px;
 }
 
 .titel {
@@ -103,5 +97,11 @@ h1 {
 
 .info {
     max-width: 200px;
+}
+
+.info-content {
+    display: flex;
+    gap: 32px;
+    margin-bottom: 100px;
 }
 
